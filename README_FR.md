@@ -23,5 +23,5 @@ Je suis une **Gameplay Programmer** et une **Artiste** passionnée, très intér
 ## ⋆.ೃ࿔🌸*:･ Projets phares
 
 ### 𝄞⨾💿✮˚.⋆ CryptRun
-> Un prototype de jeu de tir top-down entièrement développé dans Unreal Engine 5 avec Blueprint. Le joueur évolue à travers une série de salles, éliminant les ennemis pour progresser. En chemin, il peut ramasser des armes et des objets à collectionner, chacun conférant des bonus ou des malus uniques qui influencent le déroulement de la partie.
+> Un prototype de jeu de tir top-down entièrement développé dans Unreal Engine 5 avec Blueprint. Le joueur évolue à travers une série de salles, éliminant les ennemis pour progresser. En chemin, il peut ramasser des armes et des objets à collectionner, chacun conférant des bonus ou des malus uniques qui influencent le déroulement de la partie.      
 °❀⋆.ೃ࿔*:･ [Voir le projet](https://git.jahyna-universe.com/kodzukye/CryptRun)
