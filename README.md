@@ -27,3 +27,10 @@ I'm a passionate **Gameplay Programmer** and **Artist** very interested in makin
 > A top-down shooter prototype built entirely in Unreal Engine 5 using Blueprints. The player progresses through a series of rooms, eliminating enemies to advance. Along the way, weapons and collectibles can be picked up, each granting unique buffs or debuffs that shape the run. 
 
 °❀⋆.ೃ࿔*:･ [View project repository](https://git.jahyna-universe.com/kodzukye/CryptRun)
+
+---
+
+### 𝄞⨾💿✮˚.⋆ Scrap Signal
+> A short exploration game where a damaged robot wakes up in an abandoned factory, repairs itself, and helps other forgotten machines. Made with Godot 4 / Pixel Art / Gamedev.js Jam 2026       
+
+°❀⋆.ೃ࿔*:･ [View project repository](https://github.com/kodzukye/scrap-signal)
