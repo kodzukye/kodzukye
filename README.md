@@ -30,7 +30,14 @@ I'm a passionate **Gameplay Programmer** and **Artist** very interested in makin
 
 ---
 
+### 𝄞⨾💿✮˚.⋆ Omen's Ascent
+> A 2D retro game platformer where you need to climb a tower to defeat the evil entity and its monsters. Made in solo for the Godot Wild Jam #95 with Godot 4.
+
+°❀⋆.ೃ࿔*:･ [View project repository](https://github.com/kodzukye/omens-ascent) or [Play the Game](https://kodzukye.itch.io/omens-ascent)
+
+---
+
 ### 𝄞⨾💿✮˚.⋆ Scrap Signal
 > A short exploration game where a damaged robot wakes up in an abandoned factory, repairs itself, and helps other forgotten machines. Made with Godot 4 / Pixel Art / Gamedev.js Jam 2026       
 
-°❀⋆.ೃ࿔*:･ [View project repository](https://github.com/kodzukye/scrap-signal)
+°❀⋆.ೃ࿔*:･ [View project repository](https://github.com/kodzukye/scrap-signal) or [Play the Game](https://kodzukye.itch.io/scrap-signal)
